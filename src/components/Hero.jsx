@@ -1,7 +1,7 @@
 // src/components/Header.jsx
 import React from "react";
 
-const Header = () => {
+const Hero = () => {
   return (
     <>
       {/* Logos CHM */}
@@ -50,4 +50,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Hero;
